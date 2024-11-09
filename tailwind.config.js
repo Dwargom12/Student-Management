@@ -16,6 +16,6 @@ export default {
             },
         },
     },
-
+// act 2
     plugins: [forms],
 };
